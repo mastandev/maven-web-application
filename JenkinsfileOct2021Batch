@@ -1,4 +1,4 @@
-node{
+node('node-wallmart'){
 echo" Mastan Shaik"
 
 echo "Dev Job"
